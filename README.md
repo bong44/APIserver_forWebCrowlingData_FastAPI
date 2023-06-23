@@ -7,7 +7,7 @@
 
 https://metabus.site:8443/docs
 
-![image](https://github.com/bong44/FastAPI_OpenAPIserver_forWebCrowlingData/assets/65393001/d8d02a81-e2e0-4261-ab26-ebd16b6631a7)
+![image](https://github.com/bong44/APIserver_forWebCrowlingData_FastAPI/assets/65393001/3fa0eaaa-ff62-4956-bb58-63cb57dde57f)
 
 
 ## 1.1 파이썬 어플리케이션 가상환경 준비
@@ -270,7 +270,7 @@ def update():
 
 - 어플리케이션 디렉토리와 테스트코드 디텍토리 준비
 
-![Untitled](https://github.com/metanet-number1-metabus/api-server/assets/65393001/394afa86-e636-43b6-bdc1-dc625c042c36)
+![Untitled (1)](https://github.com/bong44/APIserver_forWebCrowlingData_FastAPI/assets/65393001/b5bfc2a2-2d32-4c92-aac3-bb20e0bc2f96)
 
 
 ## 3.2 FastAPI 서버 코드 작성
@@ -491,7 +491,7 @@ class Database():
 
 - Pytest를 수행한 결과에 따른 Coverage 결과
 
-![image](https://github.com/metanet-number1-metabus/api-server/assets/65393001/56349ed1-8c22-459d-b864-f86364dda03d)
+![Untitled (2)](https://github.com/bong44/APIserver_forWebCrowlingData_FastAPI/assets/65393001/00ad4ccd-c0ca-4a29-9bb4-88b157a6079c)
 
 
 # 4. 배포
